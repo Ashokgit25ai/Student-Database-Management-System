@@ -1,0 +1,8 @@
+def menu():
+    print("\n===== Student Database Menu =====")
+    print("1. Add Student")
+    print("2. Display Students")
+    print("3. Search Student")
+    print("4. Update Student")
+    print("5. Delete Student")
+    print("6. Save & Exit")
